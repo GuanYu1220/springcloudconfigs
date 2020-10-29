@@ -1,0 +1,17 @@
+{
+    "name":"test",
+    "profiles":[
+        "dev"
+    ],
+    "label":null,
+    "version":"64e7882a8f280641724e454a2db5a3da7b44d3d4",
+    "state":null,
+    "propertySources":[
+        {
+            "name":"https://gitee.com/qianxunclub/spring-boot-config-repo/application-dev.yml",
+            "source":{
+                "test":"配置中心的配置信息"
+            }
+        }
+    ]
+}
